@@ -7,7 +7,7 @@
 • Extracted structured attendance data for 80+ employees across 3 months from internal logs.
 
 **Data Cleaning:**
-• Standardized 100% of date entries, removed 10+ duplicate/null entries, and encoded 5+ leave types into consistent categorical formats.
+• Standardized 100% of date entries, removed 10+ duplicate/null entries, and encoded 10+ leave types into consistent categorical formats.
 
 **Data Analysis:**
 • Analyzed Present %, WFH %, and Sick Leave trends across 7 weekdays and 10+ individual dates.
