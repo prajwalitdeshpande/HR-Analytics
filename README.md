@@ -10,11 +10,11 @@
 • Standardized 100% of date entries, removed 10+ duplicate/null entries, and encoded 10+ leave types into consistent categorical formats.
 
 **Data Analysis:**
-• Analyzed Present %, WFH %, and Sick Leave trends across 7 weekdays and 10+ individual dates.
+• Analyzed Present %, WFH %, and Sick Leave trends across 7 weekdays and 5+ individual dates.
 • Identified outliers such as employees with <10% presence or >80% WFH rates.
 
 **Visualization:**
-• Created 6+ dynamic visuals including line charts, bar charts, and heatmaps to show day-wise trends, employee-level presence, and overall attendance distribution.
+• Created 6+ dynamic visuals including Area charts, Matrix, and heatmaps to show day-wise trends, employee-level presence, and overall attendance distribution.
 • Enabled drill-through filtering by employee, date, and day of the week.
 
 **Impact:**
