@@ -1,10 +1,10 @@
 # HR-Analytics
 
 **Tools & Technologies:**
-• Power BI, Excel, DAX – used to process and visualize over 500+ attendance records across multiple dates.
+• Power BI, Excel, DAX – used to process and visualize over 5000+ attendance records across multiple dates.
 
 **Data Retrieval:**
-• Extracted structured attendance data for 30+ employees across 3 months from internal logs.
+• Extracted structured attendance data for 80+ employees across 3 months from internal logs.
 
 **Data Cleaning:**
 • Standardized 100% of date entries, removed 10+ duplicate/null entries, and encoded 5+ leave types into consistent categorical formats.
