@@ -1,22 +1,22 @@
 # HR-Analytics
 
-# Tools & Technologies:
+**Tools & Technologies:**
 • Power BI, Excel, DAX – used to process and visualize over 500+ attendance records across multiple dates.
 
-# Data Retrieval:
+**Data Retrieval:**
 • Extracted structured attendance data for 30+ employees across 3 months from internal logs.
 
-# Data Cleaning:
+**Data Cleaning:**
 • Standardized 100% of date entries, removed 10+ duplicate/null entries, and encoded 5+ leave types into consistent categorical formats.
 
-# Data Analysis:
+**Data Analysis:**
 • Analyzed Present %, WFH %, and Sick Leave trends across 7 weekdays and 10+ individual dates.
 • Identified outliers such as employees with <10% presence or >80% WFH rates.
 
-# Visualization:
+**Visualization:**
 • Created 6+ dynamic visuals including line charts, bar charts, and heatmaps to show day-wise trends, employee-level presence, and overall attendance distribution.
 • Enabled drill-through filtering by employee, date, and day of the week.
 
-# Impact:
+**Impact:**
 • Achieved 90.90% overall attendance insight and flagged 3+ policy violations (e.g., excessive HLWP or unexplained absences).
 • Empowered HR to take action on underperforming attendance behavior and reinforce WFH governance.
