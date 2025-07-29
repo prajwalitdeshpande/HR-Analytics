@@ -1,22 +1,25 @@
 # HR-Analytics
 
-**Tools & Technologies:**
-• Excel, Power BI, DAX – used to process and visualize over 5000+ attendance records across multiple dates.
+**Tools Used:** Power BI (DAX), Excel, PDF Export
 
-**Data Retrieval:**
-• Extracted structured attendance data for 80+ employees across 3 months from internal logs.
+**Objective:** Built an interactive HR dashboard to uncover employee attendance trends, work-from-home behavior, and leave pattern deviations over a 3-month period.
 
-**Data Cleaning:**
-• Standardized 100% of date entries, removed 10+ duplicate/null entries, and encoded 10+ leave types into consistent categorical formats.
+**🔧 Data Handling & Transformation**
+• Parsed over 8,000+ daily attendance logs across 70+ employees for Mar–May 2025.
+• Cleaned raw logs by mapping codes like P, WFH, HLWP, HSL, etc., and handling edge cases like overlapping entries or non-working days.
 
-**Data Analysis:**
-• Analyzed Present %, WFH %, and Sick Leave trends across 7 weekdays and 5+ individual dates.
-• Identified outliers such as employees with <10% presence or >80% WFH rates.
-
-**Visualization:**
-• Created 6+ dynamic visuals including Area charts, Matrix, and heatmaps to show day-wise trends, employee-level presence, and overall attendance distribution.
-• Enabled drill-through filtering by employee, date, and day of the week.
-
-**Impact:**
+**📈 Analytical Highlights**
 • Achieved 90.90% overall attendance insight and flagged 3+ policy violations (e.g., excessive HLWP or unexplained absences).
+• WFH trends peaked on Sundays (100%) and Thursdays (17.2%) – enabling HR to reassess remote work policies.
+• Identified high-risk profiles (e.g., 0% presence with repeated leave misuse) and consistent performers (100% presence).
+
+**📊 Visualization & Design**
+• Delivered a Power BI dashboard with dynamic filters (by date, employee, status).
+• Designed day-of-week heatmaps, employee-level summaries, and time series graphs to support HR decision-making.
+• Exported the analysis to a PDF format for stakeholder-ready presentations.
+
+**🚀 Business Impact**
 • Empowered HR to take action on underperforming attendance behavior and reinforce WFH governance.
+• Created a repeatable framework to monitor real-time attendance patterns and pre-empt compliance issues.
+
+
