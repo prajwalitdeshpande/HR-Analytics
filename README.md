@@ -20,6 +20,6 @@
 
 **🚀 Business Impact**
 • Empowered HR to take action on underperforming attendance behavior and reinforce WFH governance.
-• Created a repeatable framework to monitor real-time attendance patterns and pre-empt compliance issues.
+• Created a repeatable framework to monitor real-time attendance patterns and preempt compliance issues.
 
 
